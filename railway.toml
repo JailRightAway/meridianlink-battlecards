@@ -1,0 +1,5 @@
+[deploy]
+healthcheckTimeout = 300
+
+[environments.production.deploy]
+healthcheckTimeout = 300
